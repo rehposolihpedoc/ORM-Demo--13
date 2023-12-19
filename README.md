@@ -1,10 +1,6 @@
 # ORM-Demo--13
+Utilizing backend technologies to create database rich applications for e-commerce businesses is big business. This adventure led to the marriage of Sequelize, MySQL, Node.js and Insomnia. The result is a fully functional back end application that is in line with CRUD principles.
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
 
 ## Table of Contents (Optional)
 - [Installation](#installation)
@@ -17,6 +13,8 @@ Provide a short description explaining the what, why, and how of your project. U
 1. Clone the repo: https://github.com/rehposolihpedoc/ORM-Demo--13
 2. Install Express.js
 3. Install MySQL 2
+4. Run command line command: npm run seed
+5. Run command line command: node server.js
 
 
 ## Live Screen Recording of Application Functionality
@@ -24,9 +22,8 @@ mp4 file or link
 
 
 ## Usage
-Provide instructions and examples for use. Include screenshots as needed.
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-![alt text](assets/images/screenshot.png)
+
+![Insomnia Screenshot](./Develop/Media/Screenshot%202023-12-19%20at%2011.22.39 AM.png)
 
 
 ## Credits
