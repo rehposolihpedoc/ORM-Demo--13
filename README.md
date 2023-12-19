@@ -27,16 +27,13 @@ mp4 file or link
 
 
 ## Credits
-People
-Links to profiles
-Tutorials used
+Mini projcet video for ORM
+Tutor Alex
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-## Features
-If your project has a lot of features, list them here.
 
 ## How to Contribute
 This project is open to collaboration, if you choose to do so open an issue and modify any changes you would like to see on a feature branch and wait for approval before merging to the main branch.
